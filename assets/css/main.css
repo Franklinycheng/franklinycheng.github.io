@@ -2683,10 +2683,10 @@ input, select, textarea {
 
 	#main {
 		margin-left: 15%;
-        margin-right: 10%;
+        margin-right: 15%;
 		max-width: 70em;
-		padding: 8em 4em 4em 4em;
-		width: calc(100% - 35%);
+		padding: 4em 4em 4em 4em;
+		width: calc(100% - 30%);
 	}
 
 		#main > section {
